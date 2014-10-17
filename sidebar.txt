@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pht:home|Door43 (pht)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pht|d43-pht repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pht/archive/master.zip|d43-pht.zip]]
+
+**Recent Changes**
+{{changes>ns = pht}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pht|Ethnologue data]]
+
